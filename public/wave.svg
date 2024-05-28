@@ -1,0 +1,13 @@
+<svg id="combined" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <!-- First SVG, positioned at the top -->
+    <rect x="0" y="0" width="960" height="270" fill="#000000"></rect>
+    <path d="M0 167L53.3 144.8C106.7 122.7 213.3 78.3 320 64.7C426.7 51 533.3 68 640 66.5C746.7 65 853.3 45 906.7 35L960 25L960 0L906.7 0C853.3 0 746.7 0 640 0C533.3 0 426.7 0 320 0C213.3 0 106.7 0 53.3 0L0 0Z"
+          fill="#ffffff" stroke-linecap="round" stroke-linejoin="miter"></path>
+
+    <!-- Second SVG, positioned under the first SVG -->
+    <rect x="0" y="270" width="960" height="270" fill="#FFFFFF"></rect>
+    <!-- Adjusted path with +270 added to the y-coordinates -->
+    <path d="M0 306L53.3 309.5C106.7 313 213.3 320 320 331.5C426.7 343 533.3 359 640 358.8C746.7 358.7 853.3 342.3 906.7 334.2L960 326L960 270L906.7 270C853.3 270 746.7 270 640 270C533.3 270 426.7 270 320 270C213.3 270 106.7 270 53.3 270L0 270Z"
+          fill="#000000" stroke-linecap="round" stroke-linejoin="miter"></path>
+</svg>
